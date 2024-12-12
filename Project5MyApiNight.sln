@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{0AA574EB-CBED-416E-AB39-5B2B025BF515}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{6439ED3D-CC2A-46DB-84D9-A929DD08600C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{B1B163BC-6803-4B56-BF5F-909BC35EAF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{4FA89620-0F4E-48E5-ABB2-FADA0D8A5DD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B1B163BC-6803-4B56-BF5F-909BC35EAF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B163BC-6803-4B56-BF5F-909BC35EAF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B163BC-6803-4B56-BF5F-909BC35EAF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA89620-0F4E-48E5-ABB2-FADA0D8A5DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA89620-0F4E-48E5-ABB2-FADA0D8A5DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA89620-0F4E-48E5-ABB2-FADA0D8A5DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA89620-0F4E-48E5-ABB2-FADA0D8A5DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
